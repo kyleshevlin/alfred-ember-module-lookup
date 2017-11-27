@@ -1,7 +1,6 @@
-# alfred-ember-module-lookup [![Build Status](https://travis-ci.org/kyleshevlin/alfred-ember-module-lookup.svg?branch=master)](https://travis-ci.org/kyleshevlin/alfred-ember-module-lookup)
+# alfred-ember-module-lookup
 
-> Find Ember modular import quickly
-
+> Find an Ember module import quickly
 
 ## Install
 
