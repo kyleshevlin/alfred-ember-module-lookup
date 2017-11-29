@@ -1,6 +1,6 @@
 {
   "name": "alfred-ember-module-lookup",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find an Ember module import quickly",
   "license": "MIT",
   "repository": "git@github.com:kyleshevlin/alfred-ember-module-lookup.git",
